@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @MushroomEl
 - 👀 I’m Chinese.
-- 🌱 I’m currently learning.
-- 💞️ I'm working on a simple game mod translation.
-- 📫 How to reach me ...
+- 🌱 I'm learning Unreal Engine.
